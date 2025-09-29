@@ -77,8 +77,7 @@
 
 📧 **Email**: pushkarpawaroff@gmail.com  
 📱 **Phone**: +91-8482939096  
-📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1Hs3hZ9NB25ndpNmz32hZnvPDIP7B7QOs/view?usp=sharing)  
-🌐 **Portfolio**: [Visit Portfolio](https://pushkar012345.github.io/Portfolio.github.io/)
+📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1o2xExoPeIqHbTUaLloRRE_538TsCzsdB/view)  
 
 ---
 
