@@ -1,92 +1,84 @@
-<h1 align="center">Hi 👋, I'm Pushkar Pawar</h1>
-<h3 align="center">Full Stack Developer (MERN | React Native) | Open to Full-Time Roles</h3>
+# Hi there 👋, I'm Pushkar Pawar
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pushkar012345&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar012345" />
-</p>
+📍 Pune, Maharashtra  
+📧 pushkarpawaroff@gmail.com | 📱 +91-8482939096  
+[LinkedIn](https://www.linkedin.com/) | [Portfolio](#) | [GitHub](https://github.com/) | [LeetCode](https://leetcode.com/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/)  
 
 ---
 
-🎓 **Recent Graduate**  
-- B.Tech in Information Technology Engineering  
-- Vishwakarma Institute of Information Technology, Pune (2021–2025)  
-- CGPA: 8.37
+## 🛠 Technical Skills
 
-💼 **Completed Internship**  
-**Software Engineering Intern @ Syngenta** (Aug 2024 – Aug 2025)  
-- Built scalable features using MERN Stack and React Native (boosted UX by 40%)  
-- Resolved 30+ bugs, developed 20+ reusable components  
-- Integrated APIs, improved backend response by 25%  
-- Contributed to test coverage with Jest and collaborated in Agile teams  
-
-🚀 **Now Open to Full-Time Software Developer Roles**
+**Languages:** JavaScript, C++, Java, SQL, HTML, CSS  
+**Frontend Development:** React.js  
+**Backend Development:** Node.js, Express.js  
+**Databases:** MongoDB, MongoDB Atlas, MySQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Jira, Bitbucket, Hostinger, ZAP Pen Test Tool  
+**Testing & QA:** Manual Testing, Test Cases, Bug Reporting, API Testing (Postman), SDLC, STLC  
+**SEO & Analytics:** On-page & Technical SEO, Keyword Research, Website Performance Optimization, Google Analytics, Google Search Console  
+**Web Security & Deployment:** SSL/HTTPS Implementation, Secure Headers, CORS, Form Validation, Vulnerability Checks, Hostinger Deployment, Domain & DNS Management  
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 💼 Experience
 
-**Languages**  
-`C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
+### **Software Engineer** — IT WorldTech Pvt. Ltd.  
+*Jan 2026 – Present | Remote*  
+**Role:** Full Stack Web Developer  
+- Developed and deployed the company website end-to-end using MERN stack, from concept to production.  
+- Led complete development lifecycle including UI/UX design, backend development, testing, and deployment.  
+- Conducted technical interviews for 10+ candidates, contributing to hiring and team growth.  
+- Worked as a founding engineer, shaping product architecture, engineering practices, and technical roadmap.  
 
-**Frameworks & Tools**  
-`React.js` `React Native` `Node.js` `Express.js` `MongoDB`  
-`REST APIs` `Postman` `Git` `GitHub` `VS Code` `Android Studio`
-
-**CS Fundamentals**  
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`  
-`Computer Networks` `System Design` `Agile` `SDLC`
-
----
-
-### 🧩 Projects
-
-#### 🍲 Kokan Restaurant Website (MERN)
-- Responsive restaurant website handling 50+ concurrent reservations  
-- Implemented order management, real-time updates, and Vercel deployment  
-- Integrated APIs and reduced backend errors by 30%
-
-#### 📱 MI Store Clone (React.js)
-- Simulated MI Store with optimized components and responsive design  
-- Improved performance by 20%, deployed on Netlify
-
-#### 🧑‍💼 Portfolio Website
-- SEO-optimized personal site with Google Sheets-based contact form  
-- Enhanced UX with transitions and hover effects
+### **Software Engineering Intern (Paid)** — Syngenta Pvt. Ltd.  
+*Jan 2025 – Aug 2025 | Pune, Maharashtra*  
+**Role:** MERN Stack Developer Intern  
+- Implemented scalable RESTful APIs using Node.js & Express.js, improving data retrieval efficiency and reducing API response time by 25%.  
+- Developed reusable React.js components, enhancing UI performance and reducing unnecessary re-renders by 15–20%.  
+- Designed and integrated efficient MongoDB/Mongoose schemas, improving query performance by 15%.  
+- Collaborated with senior engineers to debug backend logic and optimize request/response flows, reducing API-level bugs by 30%.  
 
 ---
 
-### 🏆 Achievements
+## 🚀 Projects
 
-- 🥇 Winner – **HackNIT Hackathon (Smart City)** (300+ teams)  
-- 🥈 **Outstanding Project Award** – VIIT (Top 1% of 120+ projects)  
-- 📈 Top 8% – **LeetCode Weekly Contests** (2024)  
-- 💻 Top 150 – **GeeksforGeeks VIIT Leaderboard** (out of 1000+ students)  
-- 📄 **Published 2 Research Papers** – IEEE ESCI & MIT ADT Intl. Conf. (2024)
+### **Kokan Restaurant Website** | [Website Link](#)  
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Built a full-stack restaurant application, improving booking efficiency.  
+- Engineered real-time table availability and reservation logic, reducing scheduling conflicts by 30%.  
+- Developed an admin dashboard to manage bookings and enhance operational workflow.  
+- Crafted responsive UI for desktop & mobile, ensuring smooth user experience.  
+
+### **Event Management System** | [Website Link](#)  
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Developed platform to streamline event creation and user registrations.  
+- Implemented seat availability tracking, improving booking accuracy by 25%.  
+- Designed secure JWT-based authentication with role-based access control.  
+- Built admin dashboard to manage events, users, and analytics insights.  
+- Deployed responsive React.js UI optimized for all devices.  
+
+### **Xiaomi India Clone** | [Website Link](#)  
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Crafted an e-commerce clone simulating Xiaomi India’s shopping experience.  
+- Integrated secure user authentication for login/signup and account actions.  
+- Developed dynamic product catalog & detail pages for smooth browsing.  
+- Built functional shopping cart & checkout workflow to simulate order processing.  
+- Architected responsive front-end ensuring fast and mobile-friendly interactions.  
 
 ---
 
-### 🌐 Connect with Me
+## 🎓 Education
 
-<p align="left">
-  <a href="https://linkedin.com/in/pushkarpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pushkar Pawar" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/pushkarpawar43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkarpawar43" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/pushkarp7cj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pushkarp7cj0" height="30" width="40" /></a>
-</p>
-
-📧 **Email**: pushkarpawaroff@gmail.com  
-📱 **Phone**: +91-8482939096  
-📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1o2xExoPeIqHbTUaLloRRE_538TsCzsdB/view)  
+**Vishwakarma Institute of Information Technology, Pune**  
+*B.Tech – Information Technology Engineering | 2021 – 2025*  
+CGPA: 8.37  
 
 ---
 
-### ⚙️ GitHub Stats
+## 📈 GitHub Stats (Optional)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar012345&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar012345&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar012345&" alt="GitHub Streak" /></p>
+> "Striving to build efficient, secure, and user-friendly web applications while continuously learning and improving."  
+
