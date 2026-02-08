@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Pushkar Pawar
 
-![Profile Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80)  
-
 📍 Pune, Maharashtra  
 📧 pushkarpawaroff@gmail.com | 📱 +91-8482939096  
 [LinkedIn](https://www.linkedin.com/) | [Portfolio](#) | [GitHub](https://github.com/) | [LeetCode](https://leetcode.com/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/)  
@@ -11,8 +9,8 @@
 ## 🛠 Technical Skills
 
 **Languages:** JavaScript, C++, Java, SQL, HTML, CSS  
-**Frontend Development:** ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-**Backend Development:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white), Express.js  
+**Frontend Development:** React.js  
+**Backend Development:** Node.js, Express.js  
 **Databases:** MongoDB, MongoDB Atlas, MySQL  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Jira, Bitbucket, Hostinger, ZAP Pen Test Tool  
 **Testing & QA:** Manual Testing, Test Cases, Bug Reporting, API Testing (Postman), SDLC, STLC  
@@ -28,37 +26,43 @@
 **Role:** Full Stack Web Developer  
 - Developed and deployed the company website end-to-end using MERN stack, from concept to production.  
 - Led complete development lifecycle including UI/UX design, backend development, testing, and deployment.  
-- Conducted technical interviews for 10+ candidates.  
-- Shaped product architecture and engineering practices as a founding engineer.  
+- Conducted technical interviews for 10+ candidates, contributing to hiring and team growth.  
+- Worked as a founding engineer, shaping product architecture, engineering practices, and technical roadmap.  
 
 ### **Software Engineering Intern (Paid)** — Syngenta Pvt. Ltd.  
 *Jan 2025 – Aug 2025 | Pune, Maharashtra*  
 **Role:** MERN Stack Developer Intern  
-- Implemented scalable RESTful APIs, reducing response time by 25%.  
-- Developed reusable React.js components, improving UI performance by 15–20%.  
-- Designed efficient MongoDB schemas, improving query performance by 15%.  
-- Debugged backend logic, reducing API-level bugs by 30%.  
+- Implemented scalable RESTful APIs using Node.js & Express.js, improving data retrieval efficiency and reducing API response time by 25%.  
+- Developed reusable React.js components, enhancing UI performance and reducing unnecessary re-renders by 15–20%.  
+- Designed and integrated efficient MongoDB/Mongoose schemas, improving query performance by 15%.  
+- Collaborated with senior engineers to debug backend logic and optimize request/response flows, reducing API-level bugs by 30%.  
 
 ---
 
 ## 🚀 Projects
 
-### **Kokan Restaurant Website** | [Live Site](#)  
+### **Kokan Restaurant Website** | [Website Link](#)  
 **Tech:** MongoDB, Express.js, React.js, Node.js  
-- Full-stack restaurant application with real-time table availability.  
-- Admin dashboard for booking management.  
-- Responsive UI for desktop & mobile.  
+- Built a full-stack restaurant application, improving booking efficiency.  
+- Engineered real-time table availability and reservation logic, reducing scheduling conflicts by 30%.  
+- Developed an admin dashboard to manage bookings and enhance operational workflow.  
+- Crafted responsive UI for desktop & mobile, ensuring smooth user experience.  
 
-### **Event Management System** | [Live Site](#)  
-**Tech:** MERN Stack  
-- Streamlined event creation and user registration.  
-- Secure JWT-based authentication with role-based access.  
-- Admin dashboard with analytics insights.  
+### **Event Management System** | [Website Link](#)  
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Developed platform to streamline event creation and user registrations.  
+- Implemented seat availability tracking, improving booking accuracy by 25%.  
+- Designed secure JWT-based authentication with role-based access control.  
+- Built admin dashboard to manage events, users, and analytics insights.  
+- Deployed responsive React.js UI optimized for all devices.  
 
-### **Xiaomi India Clone** | [Live Site](#)  
-**Tech:** MERN Stack  
-- E-commerce clone with product catalog, shopping cart, and checkout workflow.  
-- Responsive, mobile-friendly front-end with dynamic content.  
+### **Xiaomi India Clone** | [Website Link](#)  
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Crafted an e-commerce clone simulating Xiaomi India’s shopping experience.  
+- Integrated secure user authentication for login/signup and account actions.  
+- Developed dynamic product catalog & detail pages for smooth browsing.  
+- Built functional shopping cart & checkout workflow to simulate order processing.  
+- Architected responsive front-end ensuring fast and mobile-friendly interactions.  
 
 ---
 
@@ -70,12 +74,11 @@ CGPA: 8.37
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats (Optional)
 
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 
-> "Striving to build efficient, secure, and user-friendly web applications while continuously learning and improving."
+> "Striving to build efficient, secure, and user-friendly web applications while continuously learning and improving."  
+
