@@ -13,8 +13,8 @@
 
 - 🎓 B.Tech in Information Technology — VIIT Pune (CGPA: 8.37)
 - 💼 Software Engineer at **IT WorldTech Pvt. Ltd.** (Founding Engineer)
-- 🏢 Previously interned at **Syngenta Pvt. Ltd.** as MERN Stack Developer
-- 🌾 Built **AgroPrice Pro** — a live AI-powered agri market tracker for Maharashtra
+- 🏢 Previously interned at **Syngenta Pvt. Ltd.** as a MERN Stack Developer
+- 🌾 Built **AgroPrice Pro** — a live AI-powered agri market tracker covering 255+ markets across Maharashtra
 - 🤖 Passionate about building full-stack products with AI integration
 - 📍 Based in Pune, Maharashtra
 
@@ -25,6 +25,7 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,6 +53,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**AI & Integrations**
+
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -65,12 +71,12 @@
 ## 💼 Experience
 
 ### 🏢 Software Engineer — IT WorldTech Pvt. Ltd.
-`Jan 2026 – Present` | Remote | Full Stack Web Developer
+`Jan 2026 – Present` | Remote | Founding Engineer
 
-- Developed and deployed the company website end-to-end using MERN stack, from concept to production
-- Led complete development lifecycle including UI/UX design, backend development, testing, and deployment
+- Developed and deployed the company website end-to-end using the MERN stack, from concept to production
+- Led the complete development lifecycle including UI/UX, backend development, testing, and deployment
 - Conducted technical interviews for 10+ candidates, contributing to hiring and team growth
-- Worked as a founding engineer, shaping product architecture, engineering practices, and technical roadmap
+- Shaped product architecture, engineering practices, and technical roadmap as a founding engineer
 
 ### 🌱 Software Engineering Intern (Paid) — Syngenta Pvt. Ltd.
 `Jan 2025 – Aug 2025` | Pune, Maharashtra | MERN Stack Developer Intern
@@ -78,27 +84,49 @@
 - Built **AgroPrice Pro** — a full-stack agri market price tracking platform using React.js, Node.js, PostgreSQL & Prisma ORM with real-time mandi data, interactive price charts, alert simulator, and AI chatbot
 - Designed and implemented REST APIs with Express.js for fetching, storing, and serving live market data with indexed PostgreSQL queries
 - Developed interactive price trend charts and a price alert simulator using Recharts and statistical analysis
-- Implemented price history tracking with normalized database schema and integrated PDF report export using jsPDF
+- Implemented price history tracking with a normalized database schema and integrated PDF report export using jsPDF
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌾 [AgroPrice Pro](https://github.com/Pushkar012345/agroprice-pro) — Agri Market Price Tracker
+> Real-time Maharashtra agricultural market price tracker with AI chatbot · [Live Demo](https://agroprice-pro.vercel.app)
 
-### 💡 [Lumina AI — Study Guide Generator](https://github.com/Pushkar012345)
+`React.js` `Node.js` `PostgreSQL` `Prisma ORM` `Groq AI`
+
+- Covers 255+ markets across 12 Maharashtra districts with live data from data.gov.in
+- AgroBot AI chatbot (Groq LLaMA) for real-time price queries and farming advice
+- Interactive price charts, crop comparison, alert simulator, and CSV export
+
+---
+
+### 💡 [Lumina AI — Study Guide Generator](https://github.com/Pushkar012345/lumina-backend)
 > AI-powered study platform with summaries, flashcards, and quizzes
+> ⚠️ *link points to lumina-backend — send me the frontend repo link if it's separate and I'll update this*
 
 `React.js` `Node.js` `MongoDB` `Groq API` `Clerk`
 
-- AI study platform using Groq's LLaMA 3.3 70B for generating summaries and quizzes
-- Clerk authentication with per-user study history stored in MongoDB
-- Rate limiting, Helmet.js security headers, CORS policies for production-ready API security
-- PDF export, dark mode, focus mode, and fully responsive design
+- AI study platform using Groq's LLaMA 3.3 70B to generate summaries, flashcards, and quizzes
+- Clerk authentication with per-user study history stored in indexed MongoDB collections
+- Rate limiting, Helmet.js security headers, and CORS policies for production-ready API security
+- PDF export, dark mode, focus mode, and a fully responsive design
+
+---
+
+### 📊 [DevDash — GitHub Analytics Dashboard](https://github.com/Pushkar012345/dev-analytics-dashboard)
+> Visualizes your GitHub activity — repos, contributions, languages, and commit streaks
+
+`Next.js` `TypeScript` `Supabase` `GitHub REST API`
+
+- Pulls live data from the GitHub REST API to chart repositories, push streaks, and contribution patterns
+- Language breakdown and activity visualizations powered by Supabase-backed storage
 
 ---
 
 ### 🍽️ [Kokan Restaurant Website](https://github.com/Pushkar012345)
 > Full-stack restaurant website with live table reservation system
+> ⚠️ *needs the correct repo link — reply with it and I'll swap this in*
 
 `MongoDB` `Express.js` `React.js` `Node.js` `Vercel`
 
@@ -126,7 +154,7 @@ B.Tech — Information Technology Engineering | 2021 – 2025 | CGPA: **8.37**
 
 <p align="center">
   <i>Open to full-time opportunities in Full Stack / Backend / AI Engineering roles</i><br/>
-  <a href="mailto:pushkarpawaroff@gmail.com">📧 pushkarpawaroff@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/pushkarpawar314/">💼 LinkedIn</a> • 
+  <a href="mailto:pushkarpawaroff@gmail.com">📧 pushkarpawaroff@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/pushkarpawar314/">💼 LinkedIn</a> •
   <a href="https://agroprice-pro.vercel.app">🌾 Live Project</a>
 </p>
